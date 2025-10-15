@@ -9,7 +9,7 @@ variable "prefix" {
   description = "This prefix will be included in the name of most resources."
 }
 
-variable "resource_Group" {
+variable "resource_group" {
   description = "Resource_group to be used"
 }
 
